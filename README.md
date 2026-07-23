@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhishek Khanna 👋
 
-<!--
-**Abhishek-7983/Abhishek-7983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate (2025)
 
-Here are some ideas to get you started:
+💻 Cloud Infrastructure & DevOps Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Linux
+- AWS
+- CCNA
+- Git & GitHub
+- Networking
+- Shell Scripting
+
+## Currently Learning
+- Docker
+- Kubernetes
+- CI/CD
+
+## Goal
+To start my career as a Cloud Support Engineer / Linux Administrator / Junior DevOps Engineer.
+
+📧 Email: abhi.khanna793@gmail.com
+🔗 LinkedIn: Https://www.linkedin.com/in/abhishek-khanna-cloud
